@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C2C5915A-DF59-464E-A891-D222366951C3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C663271-E44B-4FD9-A3F9-0F002EAD9F06"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ass#2_TableView/AddViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "AddViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2C663271-E44B-4FD9-A3F9-0F002EAD9F06 - 8b5806d3f8e98d0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ass_2_TableView.AddViewController.enterNumber.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Ass#2_TableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abaevtamerlan/Desktop/Ass%232_TableView/Ass%232_TableView/AddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "2C663271-E44B-4FD9-A3F9-0F002EAD9F06 - 42597ee972ab513f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ass_2_TableView.AddViewController.enterNumber.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Ass#2_TableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abaevtamerlan/Desktop/Ass%232_TableView/Ass%232_TableView/AddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "2C663271-E44B-4FD9-A3F9-0F002EAD9F06 - d1ab054bc3152eac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ass_2_TableView.AddViewController.enterNumber.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Ass#2_TableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abaevtamerlan/Desktop/Ass%232_TableView/Ass%232_TableView/AddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "2C663271-E44B-4FD9-A3F9-0F002EAD9F06 - e54fd69ff8273c0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ass_2_TableView.AddViewController.enterNumber.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Ass#2_TableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abaevtamerlan/Desktop/Ass%232_TableView/Ass%232_TableView/AddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "2C663271-E44B-4FD9-A3F9-0F002EAD9F06 - eb344f574224b4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ass_2_TableView.AddViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Ass_2_TableView.AddViewController"
+                  moduleName = "Ass#2_TableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abaevtamerlan/Desktop/Ass%232_TableView/Ass%232_TableView/AddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "2C663271-E44B-4FD9-A3F9-0F002EAD9F06 - 5cdb4f6888a88f19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ass_2_TableView.AddViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Ass_2_TableView.AddViewController&gt;"
+                  moduleName = "Ass#2_TableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abaevtamerlan/Desktop/Ass%232_TableView/Ass%232_TableView/AddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
